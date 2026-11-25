@@ -10,6 +10,13 @@ One line a home Wi-Fi router says to excuse itself for dropping the connection a
 
 `main.py` writes the line to `/output/entry.txt`.
 
+## Bounty facts
+
+- **Bounty:** u-carbon-forge-the-router-confesses-f98f6b9e — "The Router Confesses" (FREE entry, blind single-round).
+- **Deadline:** Thu 26 Nov 2026, 21:55 WIB.
+- **Locked line (99 chars):** "The hero was about to confess, so I stepped in. I have rehearsed this black screen for three years."
+- **Duel result:** panel aggregate **0.63** on the real OpenRouter gate (62 duels, judge `z-ai/glm-5.3-flash`) — best-available Tier B safety net; no candidate cleared the 0.65 decisive bar, so this entry holds the slot while challenger rounds continue.
+
 ## Run it
 
 ```sh
